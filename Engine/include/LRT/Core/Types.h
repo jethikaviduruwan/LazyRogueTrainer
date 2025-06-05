@@ -64,3 +64,4 @@ namespace LRT {
 #define LRT_NON_MOVABLE(ClassName) \
     ClassName(ClassName&&) = delete; \
     ClassName& operator=(ClassName&&) = delete;
+
