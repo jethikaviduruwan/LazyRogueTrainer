@@ -38,3 +38,4 @@ namespace LRT::Math {
     };
 
 } // namespace LRT::Math
+
