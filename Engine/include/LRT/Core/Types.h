@@ -65,3 +65,4 @@ namespace LRT {
     ClassName(ClassName&&) = delete; \
     ClassName& operator=(ClassName&&) = delete;
 
+
