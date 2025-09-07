@@ -48,3 +48,4 @@ namespace LRT {
 #define LRT_WARN(...)  ::LRT::Logger::Log(::LRT::LogLevel::Warn, __VA_ARGS__)
 #define LRT_ERROR(...) ::LRT::Logger::Log(::LRT::LogLevel::Error, __VA_ARGS__)
 #define LRT_FATAL(...) ::LRT::Logger::Log(::LRT::LogLevel::Fatal, __VA_ARGS__)
+
