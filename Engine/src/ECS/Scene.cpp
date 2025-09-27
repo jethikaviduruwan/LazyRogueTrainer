@@ -26,3 +26,4 @@ namespace LRT::ECS {
     }
 
 } // namespace LRT::ECS
+
