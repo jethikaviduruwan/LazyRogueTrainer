@@ -28,3 +28,4 @@ namespace LRT::Renderer {
     }
 
 } // namespace LRT::Renderer
+
