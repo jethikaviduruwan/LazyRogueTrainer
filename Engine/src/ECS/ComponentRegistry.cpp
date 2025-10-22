@@ -5,3 +5,4 @@
 namespace LRT::ECS {
     // Reserved for future non-template methods.
 }
+
